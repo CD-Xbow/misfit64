@@ -1,5 +1,5 @@
 
-Maverick Model 3D
+Misfit64
 -----------------
 
 Misfit Modeller 3D was a popular, open source, low poly modeller with a lovey interface. Unfortunately the original developers gave up on development over a decade ago leaving the project orphaned. Misfit Cubed was based on the last released version of Misfit3D (1.38) with an MD5 exporter added and some bug fixes of the Windows version. The Linux version if the exporter has been implemented using the plugin system. Misfit Cubed was developed specifically to make it easy to make MD5 models for our game, MekArcade, based on the Cube2 game engine. 
