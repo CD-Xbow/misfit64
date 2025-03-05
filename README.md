@@ -2,11 +2,11 @@
 Misfit64
 -----------------
 
-Misfit Modeller 3D was a popular, open source, low poly modeller with a lovey interface. Unfortunately the original developers gave up on development over a decade ago leaving the project orphaned. Misfit Cubed was based on the last released version of Misfit3D (1.38) with an MD5 exporter added and some bug fixes of the Windows version. The Linux version if the exporter has been implemented using the plugin system. Misfit Cubed was developed specifically to make it easy to make MD5 models for our game, MekArcade, based on the Cube2 game engine. 
+Misfit Modeller 3D was a popular, open source, low poly modeller with a lovely interface. Unfortunately the original developer, Kevin Worchester, gave up on development over a decade ago leaving the project orphaned. Misfit Cubed was based on the last released version of Misfit3D (1.38) with an MD5 exporter added and some bug fixes of the Windows version. The Linux version has the exporter implemented using the plugin system. Misfit Cubed was developed specifically to make it easy to make MD5 models for our game, MekArcade, based on the Cube2 game engine. 
 
-Fortunately someone else recoginised the qualities of the program, it continued as Maverick3D(MM3D) which you can find here https://github.com/clover-moe/mm3d It's in some of the big Linux distros. Even had it running nice on the Pi and on Puppy Linux. It would have made a great app for tablets. 
+Fortunately someone else recoginised the qualities of the program, it continued as Maverick3D(MM3D) which you can find here https://github.com/clover-moe/mm3d It's in some of the big Linux distros. Even had it running nice on the Pi and on Puppy Linux. It would have made a great app for a tablet. 
 
-Now 13 years later, MisfitCubed is due to rise from the ashes as Misfit64, based on the newer QT5 codebase, from Maverick3D. I have to set up a Linux development environent first, then one on Windows. My memoryis that it was 'challenging'.
+Now 13 years later, MisfitCubed is due to rise from the ashes as Misfit64, based on the newer QT5 codebase, from Maverick3D. I have to set up a Linux development environent first, then one on Windows. My memory of that is that it was 'challenging'.
 
 Maverick Model 3D documentation follows.
 
